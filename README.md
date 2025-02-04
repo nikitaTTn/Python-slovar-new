@@ -1,1 +1,2 @@
-# Python-slovar-new
+# Python-slovar
+slovar python
